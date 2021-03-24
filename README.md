@@ -38,7 +38,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![x] http://g.recordit.co/txjJpQIrJY.gif
+![](http://g.recordit.co/txjJpQIrJY.gif)
+
+
 
 
 ## Reflection Questions
