@@ -6,7 +6,7 @@ Submitted by: **Xavier Huetter**
 
 Time spent: **6** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/blossomed-memory-game
 
 ## Required Functionality
 
